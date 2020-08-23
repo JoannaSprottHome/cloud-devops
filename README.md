@@ -1,4 +1,4 @@
-# project-ml-microservice-kubernetes [![CircleCI](https://circleci.com/gh/JoannaSprottHome/project-ml-microservice-kubernetes.svg?style=shield)](https://app.circleci.com/pipelines/github/JoannaSprottHome/project-ml-microservice-kubernetes) 
+# project-ml-microservice-kubernetes
 
 <p float="left">
   <img src="images/python-icon-2.jpeg" width="30" />
