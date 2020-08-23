@@ -3,11 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'python3 -m venv clouddevops'
-                sh '. clouddevops/bin/activate'
-                sh 'make install'
-                sh 'wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\\'
-                sh 'chmod +x /bin/hadolint'
+                sh 'python3 -m venv clouddevops && . clouddevops/bin/activate && make install'
             }
         }
     }
