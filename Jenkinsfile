@@ -6,5 +6,10 @@ pipeline {
                 sh 'python3 -m venv clouddevops && . clouddevops/bin/activate && make install'
             }
         }
+        stage('lint') {
+            steps {
+                sh '. clouddevops/bin/activate && make lint'
+            }
+        }
     }
 }
