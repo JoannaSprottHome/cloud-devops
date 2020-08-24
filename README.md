@@ -9,7 +9,7 @@
 
 ## Project Summary  
 
-TODO
+Sentiment classification using DistllBERT.
 
 ---   
 
