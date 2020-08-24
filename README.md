@@ -5,6 +5,7 @@
   <img src="images/docker-icon2.jpeg" width="30" /> 
   <img src="images/kubernetes-icon-2.png" width="30" />
   <img src="images/jenkins-icon2.png" width="30" />
+  <img src="images/flask-icon.png" width="30" />
 </p>
 
 ## Project Summary  
